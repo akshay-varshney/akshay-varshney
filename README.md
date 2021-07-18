@@ -4,8 +4,8 @@ I am having a 2+ Years of experience in software industry. Currently I am learni
 
 <img src="https://github-readme-stats.vercel.app/api?username=akshay-varshney&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-Software Engineer: <a href="https://adobe.com">@Adobe</a>
-Code: HTML, CSS, JavaScript, C++, Python, Image Processing, Node.js
+<li>Software Engineer: <a href="https://adobe.com">@Adobe</a> </li>
+<li>Code: HTML, CSS, JavaScript, C++, Python, Image Processing, Node.js</li>
 
 
 <!--
