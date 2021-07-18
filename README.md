@@ -5,12 +5,28 @@ I am having a 2+ Years of experience in software industry. Currently I am learni
 
 
 <li>Software Engineer: <a href="https://adobe.com">@Adobe</a> </li>
-<li>Code: HTML, CSS, JavaScript, C++, Python, Image Processing, Node.js</li>
+<li>Code: HTML, CSS, JavaScript, C++, Python, Node.js, MYSQL, Deep Learning, Image Processing</li>
 <li> Former Research Intern: <a href="https://www.iitm.ac.in/">@IIT Madras</a></li>
 
-Besides Coding: I like Music 🎵 , Cooking 🧑‍🍳 , and Sleeping 😴💤 
 
+<li>Besides Coding: I like Music 🎵 , Cooking 🧑‍🍳 , and Sleeping 😴💤 </li>
+<li> I’m looking to collaborate on few projects. if you are passionate then do connect with me.</li>
+<br>
 
+<a href="https://twitter.com/akshayvarshney6" rel="nofollow">
+  <img align="left" alt="Akshay's Twitter" 
+       src="https://img.icons8.com/color/48/000000/twitter--v2.png" data-canonical-src="https://img.icons8.com/bubbles/50/000000/twitter.png" style="max-width:100%;">
+  <a href="https://www.linkedin.com/in/akshay-varshney-03a3a4131/" rel="nofollow">
+  <img align="left" alt="Akshay's LinkedIn" src="https://img.icons8.com/fluent/48/000000/linkedin.png" data-canonical-src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" style="max-width:100%;">
+</a>
+  <a href="mailto:akshayvarshney.001@gmail.com">
+  <img align="left" alt="Akshay's Email" src="https://img.icons8.com/doodle/48/000000/gmail-new.png" data-canonical-src="https://img.icons8.com/bubbles/50/000000/gmail.png" style="max-width:100%;">
+</a>
+
+</a>
+<br>
+<br>
+<br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=akshay-varshney&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <!--
