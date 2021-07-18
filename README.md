@@ -1,5 +1,6 @@
 ### Hi, I'm Akshay 👋
 
+I am having a 2+ Years of experience in software industry. Currently I am learning new technologies to become better developer.
 <!--
 **akshay-varshney/akshay-varshney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
