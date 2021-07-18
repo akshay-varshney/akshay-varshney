@@ -10,9 +10,9 @@ I am having a 2+ Years of experience in software industry. Currently I am learni
 
 
 <li>Besides Coding: I like Music 🎵 , Cooking 🧑‍🍳 , and Sleeping 😴💤 </li>
-<li> I’m looking to collaborate on few projects. if you are passionate then do connect with me.</li>
+<li> I’m looking to collaborate on a few projects. If you are passionate then do connect with me.</li>
 <br>
-
+<h3> Connect with Me:</h3>
 <a href="https://twitter.com/akshayvarshney6" rel="nofollow">
   <img align="left" alt="Akshay's Twitter" 
        src="https://img.icons8.com/color/48/000000/twitter--v2.png" data-canonical-src="https://img.icons8.com/bubbles/50/000000/twitter.png" style="max-width:100%;">
