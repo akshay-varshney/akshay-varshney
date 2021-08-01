@@ -1,6 +1,6 @@
 ### Hi, I'm Akshay 👋
 
-I am having a 2+ Years of experience in software industry. Currently I am learning new technologies to become better developer.
+I am having a 2+ Years of experience in software industry. Currently I am learning new technologies to become a better developer.
 
 
 
@@ -10,7 +10,7 @@ I am having a 2+ Years of experience in software industry. Currently I am learni
 
 
 <li>Besides Coding: I like Music 🎵 , Cooking 🧑‍🍳 , and Sleeping 😴💤 </li>
-<li> I’m looking to collaborate on a few projects. If you are passionate then do connect with me.</li>
+<li> I’m looking for awesome developers to collaborate/contribute on few projects. If you are passionate then do connect with me.</li>
 <br>
 <h3> Connect with Me:</h3>
 <a href="https://twitter.com/akshayvarshney6" rel="nofollow">
