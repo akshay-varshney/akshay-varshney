@@ -12,7 +12,7 @@ I am having a 2+ Years of experience in software industry. Currently I am learni
 <li>Besides Coding: I like Music 🎵 , Cooking 🧑‍🍳 , and Sleeping 😴💤 </li>
 <li> I’m looking for awesome developers to collaborate/contribute on few projects. If you are passionate then do connect with me.</li>
 <br>
-<img src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akshay-varshney&theme=jolly&hide_border=true)](https://git.io/streak-stats)">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=akshay-varshney&theme=jolly&hide_border=true">
 <h3> Connect with Me:</h3>
 <a href="https://twitter.com/akshayvarshney6" rel="nofollow">
   <img align="left" alt="Akshay's Twitter" 
