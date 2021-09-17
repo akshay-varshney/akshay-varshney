@@ -1,4 +1,4 @@
-### Hi, I'm Akshay <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="35" width="35" style="max-width: 100%;">
+### Hi, I'm Akshay <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="35" width="35" >
 
 I am having a 2+ Years of experience in software industry. Currently I am learning new technologies to become a better developer.
 
