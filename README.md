@@ -23,7 +23,7 @@ I am having a 2+ Years of experience in software industry. Currently I am learni
   <a href="mailto:akshayvarshney.001@gmail.com">
   <img align="left" alt="Akshay's Email" src="https://img.icons8.com/doodle/48/000000/gmail-new.png" data-canonical-src="https://img.icons8.com/bubbles/50/000000/gmail.png" style="max-width:100%;">
 </a>
-<img src="https://camo.githubusercontent.com/e2a6fd0e9e202f22a060f5cc76890230fe2c7c490c10370b278065f6b64df6ee/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d63686568616b31323326636f756e745f707269766174653d747275652673686f775f69636f6e733d74727565267468656d653d7261646963616c" alt="GitHub Status" data-canonical-src="https://github-readme-stats.vercel.app/api?username=akshay-varshney&amp;count_private=true&amp;show_icons=true&amp;theme=radical" style="max-width: 100%;">
+
 </a>
 <br>
 <br>
