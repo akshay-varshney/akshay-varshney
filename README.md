@@ -1,5 +1,9 @@
 ### Hi, I'm Akshay <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="35" width="35" >
 
+
+
+
+
 I am having a 2+ Years of experience in software industry. Currently I am learning new technologies to become a better developer.
 
 
@@ -12,7 +16,15 @@ I am having a 2+ Years of experience in software industry. Currently I am learni
 <li>Besides Coding: I like Music 🎵 , Cooking 🧑‍🍳 , and Sleeping 😴💤 </li>
 <li> I’m looking for awesome developers to collaborate/contribute on few projects. If you are passionate then do connect with me.</li>
 <br>
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-varshney&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=akshay-varshney&theme=jolly&hide_border=true"> -->
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=akshay-varshney&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
 <h3> Connect with Me:</h3>
 <a href="https://twitter.com/akshayvarshney6" rel="nofollow">
   <img align="left" alt="Akshay's Twitter" 
@@ -25,11 +37,6 @@ I am having a 2+ Years of experience in software industry. Currently I am learni
 </a>
 
 </a>
-<br>
-<br>
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=akshay-varshney&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <!--
 **akshay-varshney/akshay-varshney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
