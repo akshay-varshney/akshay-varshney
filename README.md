@@ -8,7 +8,7 @@ I am having a 4+ Years of experience in software industry. Currently I am learni
 
 
 <li>Software Engineer: <a href="https://www.microsoft.com/en-in">@Microsoft</a> </li>
-<li>Code: HTML, CSS, JavaScript, C++, Python, Node.js, MYSQL, Deep Learning, Image Processing</li>
+<li>Code: HTML, CSS, JavaScript, C++, Python, MYSql, Data Structure and Algorithms </li>
 <li> Former Research Intern: <a href="https://www.iitm.ac.in/">@IIT Madras</a></li>
 
 
